@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning Flutter, Navtive Android(ft.Kotlin),WordPress
 - 📫 How to reach me: nickcaestro@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/park-jungin-23550914/)](https://www.linkedin.com/in/park-jungin-23550914/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nickcaestro)](https://www.facebook.com/nickcaestro)
-[![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=red&link=https://www.instagram.com/nickcaestro77)](https://www.instagram.com/nickcaestro77)
 
 - 😄 Pronouns: he/him
 
@@ -16,8 +13,11 @@ My name is JungInPark. Just Call me Nick.
 I like studying Mobile Apps.
 
 
+<br>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/park-jungin-23550914/)](https://www.linkedin.com/in/park-jungin-23550914/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nickcaestro)](https://www.facebook.com/nickcaestro)
+[![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=red&link=https://www.instagram.com/nickcaestro77)](https://www.instagram.com/nickcaestro77)
 
 
 
