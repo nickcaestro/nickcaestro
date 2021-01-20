@@ -14,7 +14,7 @@ I like stuyding&building mobile apps & new technologies.
 Languages and Tools:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/park-jungin-23550914/)](https://https://www.linkedin.com/in/park-jungin-23550914/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/park-jungin-23550914/)](https://www.linkedin.com/in/park-jungin-23550914/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nickcaestro)](https://www.facebook.com/nickcaestro)
 
 
