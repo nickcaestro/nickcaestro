@@ -14,7 +14,7 @@ I like stuyding&building mobile apps & new technologies.
 Languages and Tools:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcaestro)](https://github.com/nickcaestro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcaestro)](https://github.com/nickcaestro/github-readme-stats-master)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
