@@ -12,6 +12,7 @@ I like stuyding&building mobile apps & new technologies.
 
 
 Languages and Tools:
+![40x40 android-logo_blog_rm](https://user-images.githubusercontent.com/12381584/105196812-5b8eee00-5b7f-11eb-8211-ca79c67a4c0f.jpg)
 
 
 
