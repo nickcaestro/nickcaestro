@@ -2,7 +2,7 @@
 
 - I like studing Mobile Apps & new Technologies.
 - 🔭 I’m currently working on Java Programmer
-- 🌱 I’m currently learning Flutter, Navtive Android(ft.Kotlin),WordPress
+- 🌱 I’m currently learning Flutter, Navtive Android, WordPress
 - 📫 How to reach me: nickcaestro@gmail.com
 
 
